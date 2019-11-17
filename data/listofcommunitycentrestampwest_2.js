@@ -1,0 +1,9 @@
+var json_listofcommunitycentrestampwest_2 = {
+"type": "FeatureCollection",
+"name": "listofcommunitycentrestampwest_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "2", "Name": "Tampines Central CC", "description": "Community Club", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1.0, "extrude": 0.0, "visibility": -1.0, "drawOrder": null, "icon": null, "ADDRESSBLOCKHOUSENUMBER": "1", "ADDRESSBUILDINGNAME": null, "ADDRESSPOSTALCODE": "528523", "ADDRESSSTREETNAME": "Tampines Walk", "ADDRESSTYPE": "A", "HYPERLINK": "https:\/\/www.onepa.sg\/cc\/tampines-central-cc", "LANDXADDRESSPOINT": "0", "LANDYADDRESSPOINT": "0", "PHOTOURL": null, "ADDRESSFLOORNUMBER": "4", "INC_CRC": "C57C470A51994838", "FMEL_UPD_D": "20190624164320", "ADDRESSUNITNUMBER": "4", "snippet": "", "POI_CODE": 1.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.939683594445995, 1.35349615471813 ] ] } },
+{ "type": "Feature", "properties": { "fid": "7", "Name": "Tampines West CC", "description": "Community Club", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1.0, "extrude": 0.0, "visibility": -1.0, "drawOrder": null, "icon": null, "ADDRESSBLOCKHOUSENUMBER": "5", "ADDRESSBUILDINGNAME": null, "ADDRESSPOSTALCODE": "529705", "ADDRESSSTREETNAME": "Tampines Avenue 3", "ADDRESSTYPE": "A", "HYPERLINK": "https:\/\/www.onepa.sg\/cc\/tampines-west-cc", "LANDXADDRESSPOINT": "0", "LANDYADDRESSPOINT": "0", "PHOTOURL": null, "ADDRESSFLOORNUMBER": null, "INC_CRC": "AB698123C1AA38BC", "FMEL_UPD_D": "20190624164320", "ADDRESSUNITNUMBER": null, "snippet": "", "POI_CODE": 1.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.935633408895001, 1.34875076398822 ] ] } }
+]
+}
